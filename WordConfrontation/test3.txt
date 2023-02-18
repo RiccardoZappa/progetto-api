@@ -1,0 +1,13 @@
+5
+nosto
+nunno
+fsoei
+noisn
+nidos
++stampa_filtrate
++nuova_partita
+fsoei
+3
+nofsi
++stampa_filtrate
+noisn
